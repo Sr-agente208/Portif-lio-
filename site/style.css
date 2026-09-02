@@ -435,7 +435,12 @@ img { max-width: 100%; }
   letter-spacing: -.04em;
   line-height: 1.05;
 }
-.contact-card > div:first-child p:last-child { color: var(--muted); max-width: 600px; margin-top: 1rem; }
+.contact-card > div:first-child p:last-of-type { color: var(--muted); max-width: 600px; margin-top: 1rem; }
+.contact-list { list-style: none; margin-top: 1.4rem; display: flex; gap: 1.8rem; flex-wrap: wrap; }
+.contact-list li { display: flex; flex-direction: column; gap: .15rem; }
+.contact-label { font-size: .62rem; letter-spacing: .14em; text-transform: uppercase; color: #8390aa; font-weight: 800; }
+.contact-list a { color: #fff; text-decoration: none; font-weight: 600; font-size: .95rem; border-bottom: 1px solid rgba(255, 255, 255, .18); transition: color .25s, border-color .25s; }
+.contact-list a:hover { color: var(--accent); border-color: var(--accent); }
 .contact-actions { display: flex; gap: .7rem; flex-wrap: wrap; }
 
 .footer {
