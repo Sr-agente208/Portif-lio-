@@ -1,5 +1,5 @@
 /* =========================================================
-   NICOLAS — PORTFÓLIO EM SESSÕES
+   NICOLLAS — PORTFÓLIO EM SESSÕES
    1. Menu mobile          2. Cursor glow      3. Ano automático
    4. Reveal por rolagem   5. Sessão ativa (nav + trilho lateral)
    6. Barra de progresso   7. Navegação por teclado

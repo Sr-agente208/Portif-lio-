@@ -1,6 +1,6 @@
 # 🖥️ Portfólio em Sessões (v2)
 
-Versão alternativa do portfólio de **Nicolas**, usando as informações da versão principal (`/index.html`), mas reorganizada como um site separado, dividido em **sessões de tela cheia** com **tela de início** própria.
+Versão alternativa do portfólio de **Nicollas**, usando as informações da versão principal (`/index.html`), mas reorganizada como um site separado, dividido em **sessões de tela cheia** com **tela de início** própria.
 
 ## 🗂️ Sessões
 

@@ -1,6 +1,6 @@
-# 🚀 Sr. Agente 208 — Portfólio
+# 🚀 Nicollas — Portfólio
 
-Portfólio pessoal de **Sr. Agente 208**, estudante de Tecnologia da Informação e entusiasta de suporte, redes, automação e desenvolvimento web.
+Portfólio pessoal de **Nicollas**, estudante de Tecnologia da Informação e entusiasta de suporte, redes, automação e desenvolvimento web.
 
 ## ✨ O que tem aqui
 
@@ -27,6 +27,8 @@ O site usa apenas tecnologias web nativas, mantendo carregamento simples e manut
 
 ```text
 .
+├── assets/
+│   └── avatar-nicollas.jpg  # Foto de perfil
 ├── index.html       # Estrutura e conteúdo do portfólio
 ├── style.css        # Identidade visual, layout e responsividade
 ├── script.js        # Menu, animações e interações
