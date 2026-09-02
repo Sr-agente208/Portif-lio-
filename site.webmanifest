@@ -1,0 +1,16 @@
+{
+  "name": "Sr. Agente 208 | Portfólio",
+  "short_name": "208 Portfolio",
+  "description": "Portfólio pessoal de Sr. Agente 208.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#070910",
+  "theme_color": "#080b14",
+  "icons": [
+    {
+      "src": "https://github.com/Sr-agente208.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
