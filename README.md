@@ -54,6 +54,10 @@ Como o arquivo inicial é `index.html`, o GitHub Pages consegue servir o site di
 
 **E-mail:** sr.agente208@gmail.com
 
+## 🖥️ Versão alternativa: Portfólio em Sessões
+
+Além desta página, existe uma versão separada do portfólio na pasta [`/site`](./site), organizada em **sessões de tela cheia** com **tela de início**, navegação lateral, barra de progresso e navegação por teclado — usando as mesmas informações daqui. Veja a [documentação da versão em sessões](./site/README.md).
+
 ---
 
 > Este portfólio é um projeto vivo: novos projetos, tecnologias e experiências podem ser adicionados conforme a evolução da minha jornada em TI.
