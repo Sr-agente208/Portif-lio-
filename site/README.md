@@ -1,6 +1,6 @@
 # 🖥️ Portfólio em Sessões (v2)
 
-Versão alternativa do portfólio de **Sr. Agente 208**, usando as mesmas informações da versão principal (`/index.html`), mas reorganizada como um site separado, dividido em **sessões de tela cheia** com **tela de início** própria.
+Versão alternativa do portfólio de **Nicolas**, usando as informações da versão principal (`/index.html`), mas reorganizada como um site separado, dividido em **sessões de tela cheia** com **tela de início** própria.
 
 ## 🗂️ Sessões
 
@@ -15,7 +15,7 @@ Versão alternativa do portfólio de **Sr. Agente 208**, usando as mesmas inform
 
 ## ✨ Recursos
 
-- Tela de início em tela cheia com grade animada, orbes de gradiente e número "208" gigante
+- Tela de início em tela cheia com grade animada, orbes de gradiente, foto de perfil e a inicial "N" gigante
 - Rolagem por sessões com **scroll-snap** (cada sessão encaixa na tela)
 - **Trilho lateral** de navegação com pontos e nomes das sessões
 - **Barra de progresso** no topo
@@ -28,10 +28,12 @@ Versão alternativa do portfólio de **Sr. Agente 208**, usando as mesmas inform
 
 ```text
 site/
-├── index.html   # Estrutura e conteúdo (6 sessões)
-├── style.css    # Identidade visual e layout em telas
-├── script.js    # Menu, sessão ativa, progresso, teclado e animações
-└── README.md    # Esta documentação
+├── assets/
+│   └── avatar-nicolas.jpg  # Foto de perfil
+├── index.html              # Estrutura e conteúdo (6 sessões)
+├── style.css               # Identidade visual e layout em telas
+├── script.js               # Menu, sessão ativa, progresso, teclado e animações
+└── README.md               # Esta documentação
 ```
 
 ## 🌐 Publicar no GitHub Pages
