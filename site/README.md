@@ -51,4 +51,4 @@ site/
 - Botfriend: https://github.com/Sr-agente208/Botfriend
 - Versionamento 2026: https://github.com/Sr-agente208/Versionamento_2026
 - Meus jogos: https://github.com/Sr-agente208/Meus-jogos-
-- E-mail: sr.agente208@gmail.com
+- E-mail: nicollascavalcanti25@gmail.com

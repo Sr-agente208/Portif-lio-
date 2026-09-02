@@ -54,7 +54,7 @@ Como o arquivo inicial é `index.html`, o GitHub Pages consegue servir o site di
 
 ## 📬 Contato
 
-**E-mail:** sr.agente208@gmail.com
+**E-mail:** nicollascavalcanti25@gmail.com
 
 ## 🖥️ Versão alternativa: Portfólio em Sessões
 
